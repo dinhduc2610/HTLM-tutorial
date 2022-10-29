@@ -1,0 +1,11 @@
+#heading-id {
+    color:aqua;
+}
+
+:root {
+    --h4-color:brown;
+}
+
+h4 {
+    color: var(--h4-color);
+}
